@@ -106,6 +106,10 @@ console.log()
 let m=4
 ++m
 console.log(m)
-let n=7
+let n=4
 n++
 console.log(n)
+
+console.log("2"==2)
+
+console.log("2"===2)
